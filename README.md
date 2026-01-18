@@ -36,6 +36,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+* The biggest challenge was getting comfortable with newer JavaScript features like reduce, template literals, and destructuring. Small mistakes (like using the wrong type of quotes or forgetting to return a value) caused unexpected behavior, but working through them made the data flow much clearer.
 
 ## License
 
